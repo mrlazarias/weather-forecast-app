@@ -39,3 +39,9 @@ Cada aula possui uma branch nesse reposítorio, o conteúdo de cada branch refle
 
 branch aulas/aula-01
 
+### Aula 02
+- Configurando o projeto sem storyboard
+- Introdução ao ViewCode
+- Autolayout
+
+branch aulas/aula-01
